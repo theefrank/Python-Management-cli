@@ -1,5 +1,5 @@
 
- gi# Project Management CLI
+ # Project Management CLI
 
 A professional command-line interface for managing projects and tasks with object-oriented design, modular architecture, and comprehensive testing. Built with Python using argparse for powerful subcommand support and persistent JSON storage.
 
